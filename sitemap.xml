@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/notes/amazon-sagemaker/</loc>
+    <loc>https://ajesh01.github.io/hugo-site/posts/notes/amazon-sagemaker/</loc>
     <lastmod>2021-06-13T20:23:10+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://ajesh01.github.io/hugo-site/posts/</loc>
     <lastmod>2021-06-13T20:23:10+05:30</lastmod>
   </url><url>
-    <loc>/posts/markdown-sample/</loc>
+    <loc>https://ajesh01.github.io/hugo-site/posts/markdown-sample/</loc>
     <lastmod>2021-06-13T20:23:10+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://ajesh01.github.io/hugo-site/</loc>
     <lastmod>2021-06-13T20:23:10+05:30</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://ajesh01.github.io/hugo-site/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://ajesh01.github.io/hugo-site/tags/</loc>
   </url>
 </urlset>

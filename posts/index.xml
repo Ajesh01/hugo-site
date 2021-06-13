@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>/posts/</link>
+    <link>https://ajesh01.github.io/hugo-site/posts/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 20:23:10 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 20:23:10 +0530</lastBuildDate><atom:link href="https://ajesh01.github.io/hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS Stuff</title>
-      <link>/posts/notes/amazon-sagemaker/</link>
+      <link>https://ajesh01.github.io/hugo-site/posts/notes/amazon-sagemaker/</link>
       <pubDate>Sun, 13 Jun 2021 20:23:10 +0530</pubDate>
       
-      <guid>/posts/notes/amazon-sagemaker/</guid>
+      <guid>https://ajesh01.github.io/hugo-site/posts/notes/amazon-sagemaker/</guid>
       <description>Amazon SageMaker What is it? Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly in the Amazon Web Services (AWS) public cloud.
 Where it can be used? Amazon SageMaker reduces the complexity of taking ML models from conceptualization to production by making it much easier to build and deploy ML models. After you choose the right algorithms and frameworks from the wide range of choices available, SageMaker manages all of the underlying infrastructure to train your model at petabyte scale, and deploy it to production.</description>
       <content>&lt;h1 id=&#34;amazon-sagemaker&#34;&gt;Amazon SageMaker&lt;/h1&gt;
@@ -87,10 +87,10 @@ Where it can be used? Amazon SageMaker reduces the complexity of taking ML model
     
     <item>
       <title>Second Post</title>
-      <link>/posts/markdown-sample/</link>
+      <link>https://ajesh01.github.io/hugo-site/posts/markdown-sample/</link>
       <pubDate>Sun, 13 Jun 2021 20:23:10 +0530</pubDate>
       
-      <guid>/posts/markdown-sample/</guid>
+      <guid>https://ajesh01.github.io/hugo-site/posts/markdown-sample/</guid>
       <description>An h1 header Paragraphs are separated by a blank line.
 2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
  this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
